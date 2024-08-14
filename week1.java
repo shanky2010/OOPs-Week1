@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class week1{
-	//question 7
+	//question 8
 	public static void main(String args[]){		
         	Scanner sc = new Scanner(System.in);
 		int t = sc.nextInt();
